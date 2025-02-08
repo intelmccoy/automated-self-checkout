@@ -1,5 +1,4 @@
-## Pull requests
-
+## Fetch requests
 Please adhere to the coding conventions used throughout the project. If in doubt, consult the
 [Effective Go](https://golang.org/doc/effective_go.html) style guide.
 
